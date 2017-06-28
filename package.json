@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "inquirer-directory": "^2.1.0",
+    "plop": "guilhermelimak/plop"
+  },
+  "name": "vue-component-generator",
+  "version": "1.0.0",
+  "description": "Generate vue components",
+  "main": "main.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Guilherme Lima",
+  "license": "GPL-3.0"
+}
