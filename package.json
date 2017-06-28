@@ -3,7 +3,7 @@
     "inquirer-directory": "^2.1.0",
     "plop": "guilhermelimak/plop"
   },
-  "name": "vue-component-generator",
+  "name": "compgen-vue",
   "version": "1.0.0",
   "description": "Generate vue components",
   "main": "main.js",
@@ -12,5 +12,8 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Guilherme Lima",
-  "license": "GPL-3.0"
+  "license": "GPL-3.0",
+  "bin": {
+    "compgen": "./main.js"
+  }
 }
