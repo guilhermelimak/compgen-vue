@@ -11,7 +11,6 @@
     "semantic-release": "^6.3.6"
   },
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "semantic-release": "semantic-release pre && npm publish && semantic-release post"
   },
   "author": "Guilherme Lima",
