@@ -1,7 +1,7 @@
 {
   "dependencies": {
     "inquirer-directory": "^2.1.0",
-    "plop": "guilhermelimak/plop"
+    "plop": "github:guilhermelimak/plop"
   },
   "name": "compgen-vue",
   "version": "1.0.0",
@@ -15,5 +15,18 @@
   "license": "GPL-3.0",
   "bin": {
     "compgen": "./main.js"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/guilhermelimak/vue-component-generator.git"
+  },
+  "keywords": [
+    "vue",
+    "component",
+    "generator"
+  ],
+  "bugs": {
+    "url": "https://github.com/guilhermelimak/vue-component-generator/issues"
+  },
+  "homepage": "https://github.com/guilhermelimak/vue-component-generator#readme"
 }
